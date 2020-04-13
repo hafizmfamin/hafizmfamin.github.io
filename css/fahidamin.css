@@ -21,3 +21,8 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+.moveimage
+{
+    position: relative;
+    top: 3px;
+}
