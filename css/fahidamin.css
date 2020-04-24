@@ -17,7 +17,9 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
-
+.carousel-caption {
+    background: rgba(0, 0, 0, 0.20);
+}
 .portfolio-item {
   margin-bottom: 30px;
 }
