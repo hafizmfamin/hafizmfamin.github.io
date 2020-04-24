@@ -18,7 +18,7 @@ body {
   background-size: cover;
 }
 .carousel-caption {
-    background: rgba(0, 0, 0, 0.20);
+    background: rgba(0, 0, 0, 0.35);
 }
 .portfolio-item {
   margin-bottom: 30px;
